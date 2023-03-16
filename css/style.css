@@ -40,17 +40,9 @@ html,body{
     font-weight: 800;
     color: #ffffff;
     text-shadow: 5px 5px  2px rgb(66, 33, 121);
-    animation-name:text-first-appear;
-	animation-duration:1.5s;
-	animation-timing-function:linear;
-	animation-iteration-count:1;
 }
 
-@keyframes text-first-appear
-{
-	0%   {opacity: 0%;}
-	100% {opacity: 100%;}
-}
+
 
 .main-container{
     width: 100%;
