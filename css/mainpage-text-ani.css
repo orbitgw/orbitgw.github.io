@@ -2,7 +2,7 @@
 
 .text-fade-in{
     animation-name:text-fade-in-ani;
-	animation-duration:1.5s;
+	animation-duration:1s;
 	animation-timing-function:linear;
 	animation-iteration-count:1;
 }
