@@ -53,9 +53,9 @@ img {
 }
 
 /*layout Phone*/
-@media screen and (max-width:768px){
+@media screen and (max-width:500px){
     .text{
-        font-size: 48px;
+        font-size: 36px;
         line-height: 44px;
     }
 }
