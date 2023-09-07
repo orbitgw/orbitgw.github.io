@@ -1,0 +1,1 @@
+window.addEventListener("load",(()=>{const o=document.querySelector("#background");fetch("https://peapix.com/bing/feed",{method:"GET",mode:"cors"}).then((o=>o.json())).then((e=>{console.log(e);var t,n=e[(t=e.length,Math.floor(Math.random()*t))].thumbUrl;o.src=n})).catch((function(e){o.src="./imgs/bg.jpg"}))}));
