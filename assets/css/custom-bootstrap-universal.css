@@ -1,0 +1,23 @@
+@charset 'utf-8';
+.navbar{
+    position: fixed;
+    width: 100%;
+    background-color: rgba(20,20,20,1.0);
+}
+.navbar-trans{
+    background-color: rgba(0,0,0,0.4);
+}
+.container-fluid .navbar-brand{
+    height: 48px;
+}
+.nav-link{
+    color: #fff;
+}
+.navbar-toggler{
+    width: 40px;
+    padding: 4px;
+}
+.dropdown-menu{
+    background-color: rgba(0,0,0,0.2);
+    color:#fff;
+}
